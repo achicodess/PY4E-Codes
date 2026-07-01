@@ -1,1 +1,0 @@
-Pytorch is used for nueral networks and AI Systems training. 

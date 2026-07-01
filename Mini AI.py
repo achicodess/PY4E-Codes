@@ -1,5 +1,5 @@
 name=input("Enter your name: ")
-prompt=input("What do you want to discover today? ",name)
+prompt=input(f"What do you want to discover today, {name}?") .strip() .lower()
 msg1=("What is the weather like today??").lower()
 msg2=("How can I improve my company's performance??").lower()
 msg3=("My sales is beggining to pick up, what do I do next??").lower()
