@@ -1,1 +1,1 @@
-Age:18, Height: 6ft, Weight: 68kg, Profession: Businessman, NetWorth: $11 Million 
+Name: Aditya, Age: 18, Weight: 68kg, Height: 6ft
