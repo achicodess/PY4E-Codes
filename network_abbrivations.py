@@ -1,0 +1,6 @@
+print("HTTPS: Hyper Text Transfer Protocol")
+print("Protocol: Set of rules that both the receiver and sender follow to predict eachother's behaviours.")
+print("Ports: These are virtual 	endpoints that direct incoming data to the correct software application or service on a device ")
+print("Internet Standards: They are the standards for all Internet Protocols developed by the IETF (Internet Engineering Task Force)")
+print("RFC: Request For Comments")
+print("Socket: These are an internal software endpoint that enables two-way communication between different programs running on a network")
