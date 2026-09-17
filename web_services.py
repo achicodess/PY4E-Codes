@@ -1,8 +1,8 @@
 print("Commanly used web services are: XML and JSON\n")
-q1="1. Learn more about XML"
-q2="2. Learn more about JSON"
-q3="3. View Coclusion"
-print("Questions are: ",q1,q2,q3)
+q1="1. Learn more about XML\n"
+q2="2. Learn more about JSON\n"
+q3="3. View Coclusion\n"
+print("Questions are:\n ",q1,q2,q3)
 try:
 	opt=int(input("Enter your desired option out of the three: "))
 except ValueError and opt>2:

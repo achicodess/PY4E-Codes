@@ -11,7 +11,7 @@ if len(correct_macth) >= 2:
 else:
     print("Oops that's wrong!")
 
-que2=["What is an XML Schema??"]
+que2="What is an XML Schema??"
 print("Question 2: ",que2)
 ans2="XML Schema is a contract that governs the type of information that is allowed to pass through the web.".lower()
 answer2=input("Enter your answer: ") .lower()
